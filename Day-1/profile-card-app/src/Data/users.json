@@ -1,0 +1,40 @@
+[
+    {
+    "id": 1,
+    "name": "Aarav Sen",
+    "role": "Frontend Developer",
+    "bio": "Learning React, Backend and AI/ML step by step.",
+    "image": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Sharma",
+    "role": "Backend Developer",
+    "bio": "Passionate about Node.js, APIs and databases.",
+    "image": "https://i.pravatar.cc/150?img=2"
+  },
+
+  {
+    "id": 3,
+    "name": "Aman Verma",
+    "role": "Full Stack Developer",
+    "bio": "Enjoys building modern web applications.",
+    "image": "https://i.pravatar.cc/150?img=3"
+  },
+
+  {
+    "id": 4,
+    "name": "Arjun Mehta",
+    "role": "UI/UX Designer",
+    "bio": "Designing clean and interactive user experiences.",
+    "image": "https://i.pravatar.cc/150?img=4"
+  },
+
+  {
+    "id": 5,
+    "name": "Sneha Kapoor",
+    "role": "AI/ML Enthusiast",
+    "bio": "Exploring machine learning and intelligent systems.",
+    "image": "https://i.pravatar.cc/150?img=5"
+  }
+]
